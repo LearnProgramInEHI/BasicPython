@@ -1,0 +1,20 @@
+# python的模块
+```
+datetime
+collections
+base64
+struct
+hashlib
+hmac
+itertools
+contextlib
+urllib
+XML
+HTMLParser
+BeautifulSoup
+xlwr
+os
+os.path
+shutil模块
+错误和调试模块
+```
