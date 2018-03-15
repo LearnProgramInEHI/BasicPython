@@ -13,9 +13,13 @@ dict和set
 函数式编程
 面向对象编程
 ```
+# 选用合适的IDE
+1. visual studio code 安装python for vscode ,python doc
+2. 安装pycharm，网上找激活服务器激活
+
+
 # 任务
-1. 用python写一个 hello world
-2. 熟悉python开发文档：https://docs.python.org/3/ 
-3. 熟悉基础内置函数
+1. 做笔记，写代码，具体参考这个目录下面的py文件
+
 
 
